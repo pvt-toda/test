@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#wrap {
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#wrap-inner {
+	float: left;
+	width: 75%;
+}
+#C {
+	float: right;
+	width: 25%;
+}
